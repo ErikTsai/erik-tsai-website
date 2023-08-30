@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/erik-tsai-website/static/css/main.ecbe3527.css",
+    "main.js": "/erik-tsai-website/static/js/main.1bed65d9.js",
+    "static/js/787.476bdb75.chunk.js": "/erik-tsai-website/static/js/787.476bdb75.chunk.js",
+    "static/media/Rokkitt-VariableFont_wght.ttf": "/erik-tsai-website/static/media/Rokkitt-VariableFont_wght.11aaa362814264943111.ttf",
+    "static/media/gorillaSquare.jpg": "/erik-tsai-website/static/media/gorillaSquare.bcbf5fb3af9c9922a409.jpg",
+    "static/media/ETWesbiteProjectImage.png": "/erik-tsai-website/static/media/ETWesbiteProjectImage.33d908a39d2fcf831fcd.png",
+    "index.html": "/erik-tsai-website/index.html",
+    "main.ecbe3527.css.map": "/erik-tsai-website/static/css/main.ecbe3527.css.map",
+    "main.1bed65d9.js.map": "/erik-tsai-website/static/js/main.1bed65d9.js.map",
+    "787.476bdb75.chunk.js.map": "/erik-tsai-website/static/js/787.476bdb75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecbe3527.css",
+    "static/js/main.1bed65d9.js"
+  ]
+}
