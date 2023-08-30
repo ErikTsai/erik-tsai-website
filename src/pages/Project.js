@@ -12,7 +12,7 @@ function Project() {
         <div className="projectList">
           {ProjectList.map((projectItem, key) => {
             return (
-              <Link to="/" className="linkToGithub">
+              <Link to="/erik-tsai-website" className="linkToGithub">
                 <ProjectItem
                   key={key}
                   title={projectItem.title}

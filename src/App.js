@@ -21,7 +21,7 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" exact Component={About} />
+          <Route path="/erik-tsai-website" exact Component={About} />
           <Route path="/projects" exact Component={Project} />
         </Routes>
         <Footer />

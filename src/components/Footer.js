@@ -10,16 +10,16 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <Link to="/">
+        <Link to="/erik-tsai-website">
           <Instagram />
         </Link>
-        <Link to="/">
+        <Link to="/erik-tsai-website">
           <Twitter />
         </Link>
-        <Link to="/">
+        <Link to="/erik-tsai-website">
           <Facebook />
         </Link>
-        <Link to="/">
+        <Link to="/erik-tsai-website">
           <LinkedIn />
         </Link>
       </div>
